@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
 
         val button = findViewById<Button>(R.id.button_button)
         button.setOnClickListener{
-            wuerfelFunktion()
+        wuerfelFunktion()
         }
     }
     fun wuerfelFunktion (){
